@@ -1,0 +1,14 @@
+10 time steps ahead:
+RMSE: 5.338702625
+Std: 5.948771726
+Average difference: 5.125454715
+
+20 time steps ahead:
+RMSE: 7.091809043
+Std: 6.560742447
+Average difference: 6.349210597
+
+30 time steps ahead:
+RMSE: 5.888769708
+Std: 5.660908279
+Average difference: 4.703353585
