@@ -11,3 +11,7 @@ Classification:
 * Random Forest
 * XGBoost
 * Support Vector Machine (SVM)
+
+Also contains the figures for each of the models
+* ARIME p1-7 and all of the CSVs are in units mmol/L rather than mg/dL
+* Convert by multiplying mmol/L values by 18.016
